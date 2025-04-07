@@ -43,7 +43,7 @@ Merged using Order ID (common column in both datasets).
 Join type: Left Outer Join (keeps all rows from Sales table).
 
 **Step 4**: Expanded Columns from Merged Table
-Clicked the Expand icon (🔽) on the merged column.
+Clicked the Expand icon on the merged column.
 Selected important fields from Customer Orders:
 Order Total
 Order Count

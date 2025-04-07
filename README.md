@@ -69,3 +69,4 @@ Analyzing sales and customer behavior in one dashboard
 # OUTPUT:
 
 
+![Image](https://github.com/user-attachments/assets/b38929e3-8215-4b0a-90ab-4596589636f5)
